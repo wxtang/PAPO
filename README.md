@@ -8,4 +8,6 @@ file: PA_Strategy.m, loss_func.m, MV.m, Normalization.m,
 PA_update.m, PATS.m are the relevant files for PATS strategy.
 
 Drawdown.m, perform.m, test_autocorr, Sensitivity_TransactionCost.m 
-are for testing the different aspects of P
+are for testing the different aspects of PATS
+
+Additions: the Strategy requires MATLAB version higher than 2015a with CVX optimization package
